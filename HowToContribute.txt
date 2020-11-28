@@ -1,0 +1,4 @@
+How to Contribute
+
+After completing translation work in fork environment, I will contribute through a Pull Request.
+(fork 환경에서 번역 작업을 완료한 뒤, Pull Request를 통해 기여할 것이다.)
