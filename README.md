@@ -14,5 +14,4 @@
 **3. Number of participants (참여 인원):** 1 person
 
 **4. Contribution plan (기여 계획)**
-  - [11/28] Fork work done (Fork 작업 완료)
-    https://github.com/sheenhm/first-contributions
+  - [11/28] Fork work done (Fork 작업 완료): https://github.com/sheenhm/first-contributions
