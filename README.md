@@ -10,5 +10,3 @@
     (한국어를 사용하는 개발자들을 위해, README.md 파일 등을 한국어로 번역하는 작업을 진행할 것이다.)
 
 3. Number of participants (참여 인원): 1 person
-
-4. 
