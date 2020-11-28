@@ -1,5 +1,7 @@
 # OpenSource
 
+### Hanyang University :: 2020 FALL SEMESTER
+
 **1. About "First Contributions" (프로젝트 안내)**
   - This project aims to simplify and guide the way beginners make their first contribution.
     (오픈소스를 처음 다루는 개발자들을 위해, 그들이 첫 번째 기여를 할 수 있는 방법을 정리해서 안내하는 것을 목표로 한다.)
